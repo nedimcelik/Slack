@@ -8,6 +8,10 @@ public class ConflictTest {
         }else {
             // dfdsfllldd
         }
+
         //intelliJ changes
+
+        // github changes
+
     }
 }
