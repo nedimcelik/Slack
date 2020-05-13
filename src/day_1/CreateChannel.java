@@ -6,5 +6,10 @@ public class CreateChannel {
         //
         System.out.println("user is able to create channels");
         //
+        int x=0;
+        
+        if (x==0){
+             System.out.println("equal");
+        }
     }
 }
